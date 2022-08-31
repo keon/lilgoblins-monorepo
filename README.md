@@ -61,3 +61,5 @@ yarn lint
 ```sh
 yarn format
 ```
+
+https://twitter.com/0xhappyhydra
